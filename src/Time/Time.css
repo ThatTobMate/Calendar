@@ -1,0 +1,21 @@
+.period {
+	color: #b8b8b8;
+	font-size: 10px;
+	font-weight: lighter;
+}
+
+.times {
+	font-weight: bold;
+	position: absolute;
+	color: #5b5d60;
+}
+
+.hour {
+  left: -70px;
+  font-size: 15px;
+}
+
+.halfHour {
+  left: -40px;
+  font-size: 10px;
+}

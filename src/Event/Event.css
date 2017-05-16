@@ -1,0 +1,22 @@
+.eventContainer {
+  border-left: 5px solid #3bb586;
+  padding: 10px;
+  background-color: #f5f5f5;
+}
+
+.title {
+	font-size: 14px;
+	color: #3bb586;
+	text-overflow: ellipsis;
+  white-space: pre;
+  overflow: hidden;
+}
+
+.subtitle {
+	color: #bab8bb;
+	font-size: 10px;
+	padding-top: 5px;
+	text-overflow: ellipsis;
+  white-space: pre;
+  overflow: hidden;
+}
